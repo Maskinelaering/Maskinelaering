@@ -4,4 +4,6 @@ In my Master's Thesis, I developed a Siamese Neural Network, a type of machine l
 The motivation behind this model stemmed from a noted disparity in estimating the mass of these objects within observational and theoretical astrophysics. 
 This novel approach not only addresses this discrepancy but also holds promise for enhancing our comprehension of star and planet formation by leveraging the strengths of both observational and theoretical astrophysics.
 
+Check out my work here: [github.com/Maskinelaering/Siamese](https://github.com/Maskinelaering/Siamese.git)
+
 I am currently looking for at job within data science, preferably with a level of machine learning.
