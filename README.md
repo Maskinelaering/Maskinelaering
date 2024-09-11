@@ -1,4 +1,4 @@
-Hi, my name is Anton. I have a M.Sc. in Astrophysics at the Niels Bohr Institute, University of Copenhagen.
+Hi, my name is Anton. I have a M.Sc. in Astrophysics from the Niels Bohr Institute, University of Copenhagen, Denmark.
 
 In my Master's Thesis, I developed a Siamese Neural Network - a type of machine learning model - to identify optimal matches between observational and simulated images of protoplanetary systems. These systems are young stars in their early stage of formation, accompanied by a surrounding disk of gas and dust. 
 The motivation behind this model stemmed from a noted discrepancy in estimating the mass of these objects within observational and theoretical astrophysics. 
