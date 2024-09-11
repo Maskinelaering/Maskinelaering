@@ -5,5 +5,3 @@ The motivation behind this model stemmed from a noted discrepancy in estimating 
 This novel approach not only addresses this discrepancy but also holds promise for enhancing our comprehension of star and planet formation by leveraging the strengths of both observational and theoretical astrophysics. The model is easily scalable and can be tuned to other computer vision problems with a focus on finding similar or dissimilar images.
 
 Check out my work here: [github.com/Maskinelaering/Siamese](https://github.com/Maskinelaering/Siamese.git)
-
-I am currently looking for at job within data science, preferably with a level of machine learning.
